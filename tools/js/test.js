@@ -1,4 +1,4 @@
-var lib = require('./index.js');
+var lib = require('./get.js');
 
 console.log('~~~~~~~~~~~~~ getCountries');
 console.log(lib.getCountries());

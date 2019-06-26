@@ -1,7 +1,7 @@
 var _ = require('underscore')
   , _d = require('underscore.deep')
   , utils = require('./utils')
-  , data = require('./data.json');
+  , data = require('../../data/data.json');
 
 _.mixin(_d);
 

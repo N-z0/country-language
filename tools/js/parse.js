@@ -4,7 +4,7 @@ var fs = require('fs')
   , csv = require('csv')
   , _ = require('underscore')
   , obj = {}
-  , rtl_langs = require('./dataSources/rtl_languages').langs;
+  , rtl_langs = require('./rtl_languages').langs;
 
 _.str = require('underscore.string');
 
@@ -27,7 +27,7 @@ function setLanguageScriptDirection (iso_1, iso_2, iso_3) {
 
 function parseLanguages (next) {
   var langFamily
-    , filePath = __dirname + '/dataSources/ISO639_codes.csv'
+    , filePath = __dirname + '../../data/sources/wp_iso639.tsv'
     , langName
     , iso639_3;
 
@@ -107,7 +107,7 @@ function parseAdditionalLanguages (next) {
 }
 
 function parseCountries(next) {
-  var filePath = __dirname + '/dataSources/ISO3166_codes.csv';
+  var filePath = __dirname + '../../data/sources/wp_iso3166.tsv';
 
   csv()
   .from.path(filePath, { delimiter: ',', escape: '"' })
@@ -402,7 +402,7 @@ function parseCountryLanguageCultures (next) {
     , langCultureName
     , countryCode
     , languageCode
-    , filePath = __dirname + '/dataSources/language_codes_ms.csv';
+    , filePath = __dirname + '../../data/sources/ms_lc.tsv';
 
   csv()
   .from.path(filePath, { delimiter: ',', escape: '"' })
@@ -457,7 +457,7 @@ function parseCountryLanguageCultures (next) {
 }
 
 function parseAllLocales (next) {
-  var filepath = __dirname + '/dataSources/locales.txt'
+  var filepath = __dirname + './locales.txt'
     , locContents = fs.readFileSync(filepath, 'utf8').split('\n');
   locContents.forEach(function (loc) {
     if (loc) {
@@ -469,7 +469,7 @@ function parseAllLocales (next) {
 
 function finish (err) {
   if (err) return console.log('ERROR:', err);
-  outputJSON(obj, '../data.json');
+  outputJSON(obj, '../../data/data.json');
   console.log('\nProcess completed successfully.');
 }
 
