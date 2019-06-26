@@ -17,7 +17,27 @@
    Source: http://msdn.microsoft.com/en-us/library/ee825488(v=cs.20).aspx
    Title: Table of Language Culture Names, Codes, and ISO Values Method C++
    Description: contains values for Language Culture Names, Display Names, Culture Codes, and ISO 639x Values that are used by Commerce Server.
-
+	Note: Microsoft is not the most reliable source, then the necessary adaptations and fix are made on this file
+		- remove zh-CHS Chinese (Simplified) 0x0004 and zh-CHT Chinese (Traditional) 0x7C04
+		  because its not lang-country combo and because zh-CHS and zh-CHT are not included in the official ISO 639-1 languages listing.
+		- remove en-CB English - Caribbean 0x2409 
+		  because Caribbean is not a country and its not in the official ISO 3166-1 countries listing.
+		- remove Lt-sr-SP Serbian (Latin) - Serbia 0x081A
+			and change Cy-sr-SP Serbian (Cyrillic) - Serbia 0x0C1A to sr-RS Serbian (Cyrillic) - Serbia 0x0C1A
+			because only sr  Serbian Cyrillic is referenced in the official ISO 639-1 languages listing.
+			and because RS is the new Alpha-2 code in the official ISO 3166-1 languages listing.
+		- remove Cy-az-AZ	Azeri (Cyrillic) - Azerbaijan	0x082C
+			and change Lt-az-AZ Azeri (Latin) - Azerbaijan	0x042C to az-AZ Azerbaijani- Azerbaijan	0x042C	
+			because only az Azerbaijani is referenced in the official ISO 639-1 languages listing.
+		- remove Cy-uz-UZ	Uzbek (Cyrillic) - Uzbekistan	0x0843
+			and change Lt-uz-UZ	Uzbek (Latin) - Uzbekistan	0x0443 to uz-UZ Uzbek - Uzbekistan	0x0443
+			because only uz Uzbek  is referenced in the official ISO 639-1 languages listing.
+		- remove kok-IN	Konkani - India	0x0457
+			because no ISO 639-1 code in the official languages listing.
+		- remove syr-SY	Syriac - Syria	0x045A	 
+			because no ISO 639-1 code in the official languages listing and there is already ar-SY Arabic - Syria	0x2801 ARS 
+      - 	change div-MV	Dhivehi - Maldives	0x0465 to dv-MV	Dhivehi - Maldives	0x0465
+		   because dv is the ISO 639-1 code for Dhivehi in the official languages listing
 
 
 
