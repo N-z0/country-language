@@ -3,6 +3,12 @@
 
 ## use
 
+ - wm_dir.tsv
+   Source: https://meta.wikimedia.org/wiki/Template:List_of_language_names_ordered_by_code
+   Title: "List of language names ordered by code"
+   Description: List of native language names, alphabetically sorted by Wikimedia language code. Where the Wikipedia domain has been created, it is linked to. 
+
+
  - wp_iso639.tsv
    Source: http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
    Title: "List of ISO 639-1 codes."
@@ -54,6 +60,10 @@
  - Source: http://en.wikipedia.org/wiki/Right-to-left
    Title: "Right-to-left"
    Description: Languages with Right-to-Left writing scripts
+
+ - Source: https://www.w3.org/International/questions/qa-scripts.en
+   Title: "Script direction and languages"
+   Description: Intended audience: anyone who wants to know which scripts are associated with right-to-left text. 
 
  - Source: http://en.wikipedia.org/wiki/List_of_official_languages
    Title: List of official languages
