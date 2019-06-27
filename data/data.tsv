@@ -1,129 +1,129 @@
-#Combo Code	#Language Family	#Language Code	#Language Name	#Language Endonym	#Language Direction	#Country Code	#Country Name	#Country Flag
-af-ZA	Indo-European	af	Afrikaans	Afrikaans	ltr	ZA	South Africa	country-flags/data/flags/za.svg
-sq-AL	Indo-European	sq	Albanian	gjuha shqipe	ltr	AL	Albania	country-flags/data/flags/al.svg
-ar-DZ	Afro-Asiatic	ar	Arabic	العربية	rtl	DZ	Algeria	country-flags/data/flags/dz.svg
-ar-BH	Afro-Asiatic	ar	Arabic	العربية	rtl	BH	Bahrain	country-flags/data/flags/bh.svg
-ar-EG	Afro-Asiatic	ar	Arabic	العربية	rtl	EG	Egypt	country-flags/data/flags/eg.svg
-ar-IQ	Afro-Asiatic	ar	Arabic	العربية	rtl	IQ	Iraq	country-flags/data/flags/iq.svg
-ar-JO	Afro-Asiatic	ar	Arabic	العربية	rtl	JO	Jordan	country-flags/data/flags/jo.svg
-ar-KW	Afro-Asiatic	ar	Arabic	العربية	rtl	KW	Kuwait	country-flags/data/flags/kw.svg
-ar-LB	Afro-Asiatic	ar	Arabic	العربية	rtl	LB	Lebanon	country-flags/data/flags/lb.svg
-ar-LY	Afro-Asiatic	ar	Arabic	العربية	rtl	LY	Libya	country-flags/data/flags/ly.svg
-ar-MA	Afro-Asiatic	ar	Arabic	العربية	rtl	MA	Morocco	country-flags/data/flags/ma.svg
-ar-OM	Afro-Asiatic	ar	Arabic	العربية	rtl	OM	Oman	country-flags/data/flags/om.svg
-ar-QA	Afro-Asiatic	ar	Arabic	العربية	rtl	QA	Qatar	country-flags/data/flags/qa.svg
-ar-SA	Afro-Asiatic	ar	Arabic	العربية	rtl	SA	Saudi Arabia	country-flags/data/flags/sa.svg
-ar-SY	Afro-Asiatic	ar	Arabic	العربية	rtl	SY	Syrian Arab Republic	country-flags/data/flags/sy.svg
-ar-TN	Afro-Asiatic	ar	Arabic	العربية	rtl	TN	Tunisia	country-flags/data/flags/tn.svg
-ar-AE	Afro-Asiatic	ar	Arabic	العربية	rtl	AE	United Arab Emirates	country-flags/data/flags/ae.svg
-ar-YE	Afro-Asiatic	ar	Arabic	العربية	rtl	YE	Yemen	country-flags/data/flags/ye.svg
-hy-AM	Indo-European	hy	Armenian	Հայերեն	ltr	AM	Armenia	country-flags/data/flags/am.svg
-az-AZ	Turkic	az	Azerbaijani	azərbaycan dili	ltr	AZ	Azerbaijan	country-flags/data/flags/az.svg
-eu-ES	Language isolate	eu	Basque	euskara, euskera	ltr	ES	Spain	country-flags/data/flags/es.svg
-be-BY	Indo-European	be	Belarusian	беларуская мова	ltr	BY	Belarus	country-flags/data/flags/by.svg
-bg-BG	Indo-European	bg	Bulgarian	български език	ltr	BG	Bulgaria	country-flags/data/flags/bg.svg
-ca-ES	Indo-European	ca	Catalan, Valencian	català, valencià	ltr	ES	Spain	country-flags/data/flags/es.svg
-zh-CN	Sino-Tibetan	zh	Chinese	中文 (Zhōngwén), 汉语, 漢語	ltr	CN	China	country-flags/data/flags/cn.svg
-zh-HK	Sino-Tibetan	zh	Chinese	中文 (Zhōngwén), 汉语, 漢語	ltr	HK	Hong Kong	country-flags/data/flags/hk.svg
-zh-MO	Sino-Tibetan	zh	Chinese	中文 (Zhōngwén), 汉语, 漢語	ltr	MO	Macao	country-flags/data/flags/mo.svg
-zh-SG	Sino-Tibetan	zh	Chinese	中文 (Zhōngwén), 汉语, 漢語	ltr	SG	Singapore	country-flags/data/flags/sg.svg
-zh-TW	Sino-Tibetan	zh	Chinese	中文 (Zhōngwén), 汉语, 漢語	ltr	TW	Taiwan, Province of China	country-flags/data/flags/tw.svg
-hr-HR	Indo-European	hr	Croatian	hrvatski jezik	ltr	HR	Croatia	country-flags/data/flags/hr.svg
-cs-CZ	Indo-European	cs	Czech	čeština, český jazyk	ltr	CZ	Czech Republic	country-flags/data/flags/cz.svg
-da-DK	Indo-European	da	Danish	dansk	ltr	DK	Denmark	country-flags/data/flags/dk.svg
-dv-MV	Indo-European	dv	Divehi, Dhivehi, Maldivian	ދިވެހި	rtl	MV	Maldives	country-flags/data/flags/mv.svg
-nl-BE	Indo-European	nl	Dutch	Nederlands, Vlaams	ltr	BE	Belgium	country-flags/data/flags/be.svg
-nl-NL	Indo-European	nl	Dutch	Nederlands, Vlaams	ltr	NL	Netherlands	country-flags/data/flags/nl.svg
-en-AU	Indo-European	en	English	English	ltr	AU	Australia	country-flags/data/flags/au.svg
-en-BZ	Indo-European	en	English	English	ltr	BZ	Belize	country-flags/data/flags/bz.svg
-en-CA	Indo-European	en	English	English	ltr	CA	Canada	country-flags/data/flags/ca.svg
-en-IE	Indo-European	en	English	English	ltr	IE	Ireland	country-flags/data/flags/ie.svg
-en-JM	Indo-European	en	English	English	ltr	JM	Jamaica	country-flags/data/flags/jm.svg
-en-NZ	Indo-European	en	English	English	ltr	NZ	New Zealand	country-flags/data/flags/nz.svg
-en-PH	Indo-European	en	English	English	ltr	PH	Philippines	country-flags/data/flags/ph.svg
-en-ZA	Indo-European	en	English	English	ltr	ZA	South Africa	country-flags/data/flags/za.svg
-en-TT	Indo-European	en	English	English	ltr	TT	Trinidad and Tobago	country-flags/data/flags/tt.svg
-en-GB	Indo-European	en	English	English	ltr	GB	United Kingdom	country-flags/data/flags/gb.svg
-en-US	Indo-European	en	English	English	ltr	US	United States	country-flags/data/flags/us.svg
-en-ZW	Indo-European	en	English	English	ltr	ZW	Zimbabwe	country-flags/data/flags/zw.svg
-et-EE	Uralic	et	Estonian	eesti, eesti keel	ltr	EE	Estonia	country-flags/data/flags/ee.svg
-fo-FO	Indo-European	fo	Faroese	føroyskt	ltr	FO	Faroe Islands	country-flags/data/flags/fo.svg
-fa-IR	Indo-European	fa	Persian (Farsi)	فارسی	rtl	IR	Iran, Islamic Republic of	country-flags/data/flags/ir.svg
-fi-FI	Uralic	fi	Finnish	suomi, suomen kieli	ltr	FI	Finland	country-flags/data/flags/fi.svg
-fr-BE	Indo-European	fr	French	français, langue française	ltr	BE	Belgium	country-flags/data/flags/be.svg
-fr-CA	Indo-European	fr	French	français, langue française	ltr	CA	Canada	country-flags/data/flags/ca.svg
-fr-FR	Indo-European	fr	French	français, langue française	ltr	FR	France	country-flags/data/flags/fr.svg
-fr-LU	Indo-European	fr	French	français, langue française	ltr	LU	Luxembourg	country-flags/data/flags/lu.svg
-fr-MC	Indo-European	fr	French	français, langue française	ltr	MC	Monaco	country-flags/data/flags/mc.svg
-fr-CH	Indo-European	fr	French	français, langue française	ltr	CH	Switzerland	country-flags/data/flags/ch.svg
-gl-ES	Indo-European	gl	Galician	galego	ltr	ES	Spain	country-flags/data/flags/es.svg
-ka-GE	South Caucasian	ka	Georgian	ქართული	ltr	GE	Georgia	country-flags/data/flags/ge.svg
-de-AT	Indo-European	de	German	Deutsch	ltr	AT	Austria	country-flags/data/flags/at.svg
-de-DE	Indo-European	de	German	Deutsch	ltr	DE	Germany	country-flags/data/flags/de.svg
-de-LI	Indo-European	de	German	Deutsch	ltr	LI	Liechtenstein	country-flags/data/flags/li.svg
-de-LU	Indo-European	de	German	Deutsch	ltr	LU	Luxembourg	country-flags/data/flags/lu.svg
-de-CH	Indo-European	de	German	Deutsch	ltr	CH	Switzerland	country-flags/data/flags/ch.svg
-el-GR	Indo-European	el	Greek (modern)	ελληνικά	ltr	GR	Greece	country-flags/data/flags/gr.svg
-gu-IN	Indo-European	gu	Gujarati	ગુજરાતી	ltr	IN	India	country-flags/data/flags/in.svg
-he-IL	Afro-Asiatic	he	Hebrew (modern)	עברית	rtl	IL	Israel	country-flags/data/flags/il.svg
-hi-IN	Indo-European	hi	Hindi	हिन्दी, हिंदी	ltr	IN	India	country-flags/data/flags/in.svg
-hu-HU	Uralic	hu	Hungarian	magyar	ltr	HU	Hungary	country-flags/data/flags/hu.svg
-is-IS	Indo-European	is	Icelandic	Íslenska	ltr	IS	Iceland	country-flags/data/flags/is.svg
-id-ID	Austronesian	id	Indonesian	Bahasa Indonesia	ltr	ID	Indonesia	country-flags/data/flags/id.svg
-it-IT	Indo-European	it	Italian	italiano	ltr	IT	Italy	country-flags/data/flags/it.svg
-it-CH	Indo-European	it	Italian	italiano	ltr	CH	Switzerland	country-flags/data/flags/ch.svg
-ja-JP	Japonic	ja	Japanese	日本語 (にほんご)	ltr	JP	Japan	country-flags/data/flags/jp.svg
-kn-IN	Dravidian	kn	Kannada	ಕನ್ನಡ	ltr	IN	India	country-flags/data/flags/in.svg
-kk-KZ	Turkic	kk	Kazakh	қазақ тілі	ltr	KZ	Kazakhstan	country-flags/data/flags/kz.svg
-ko-KR	Koreanic	ko	Korean	한국어, 조선어	ltr	KR	Korea, Republic of	country-flags/data/flags/kr.svg
-ky-KZ	Turkic	ky	Kyrgyz	Кыргызча, Кыргыз тили	ltr	KZ	Kazakhstan	country-flags/data/flags/kz.svg
-lv-LV	Indo-European	lv	Latvian	latviešu valoda	ltr	LV	Latvia	country-flags/data/flags/lv.svg
-lt-LT	Indo-European	lt	Lithuanian	lietuvių kalba	ltr	LT	Lithuania	country-flags/data/flags/lt.svg
-mk-MK	Indo-European	mk	Macedonian	македонски јазик	ltr	MK	Macedonia, the former Yugoslav Republic of	country-flags/data/flags/mk.svg
-ms-BN	Austronesian	ms	Malay	bahasa Melayu, بهاس ملايو‎	ltr	BN	Brunei Darussalam	country-flags/data/flags/bn.svg
-ms-MY	Austronesian	ms	Malay	bahasa Melayu, بهاس ملايو‎	ltr	MY	Malaysia	country-flags/data/flags/my.svg
-mr-IN	Indo-European	mr	Marathi (Marāṭhī)	मराठी	ltr	IN	India	country-flags/data/flags/in.svg
-mn-MN	Mongolic	mn	Mongolian	монгол	ltr	MN	Mongolia	country-flags/data/flags/mn.svg
-nb-NO	Indo-European	nb	Norwegian Bokmål	Norsk bokmål	ltr	NO	Norway	country-flags/data/flags/no.svg
-nn-NO	Indo-European	nn	Norwegian Nynorsk	Norsk nynorsk	ltr	NO	Norway	country-flags/data/flags/no.svg
-pl-PL	Indo-European	pl	Polish	język polski, polszczyzna	ltr	PL	Poland	country-flags/data/flags/pl.svg
-pt-BR	Indo-European	pt	Portuguese	português	ltr	BR	Brazil	country-flags/data/flags/br.svg
-pt-PT	Indo-European	pt	Portuguese	português	ltr	PT	Portugal	country-flags/data/flags/pt.svg
-pa-IN	Indo-European	pa	Panjabi, Punjabi	ਪੰਜਾਬੀ, پنجابی‎	ltr	IN	India	country-flags/data/flags/in.svg
-ro-RO	Indo-European	ro	Romanian	limba română	ltr	RO	Romania	country-flags/data/flags/ro.svg
-ru-RU	Indo-European	ru	Russian	русский язык	ltr	RU	Russian Federation	country-flags/data/flags/ru.svg
-sa-IN	Indo-European	sa	Sanskrit (Saṁskṛta)	संस्कृतम्	ltr	IN	India	country-flags/data/flags/in.svg
-sr-RS	Indo-European	sr	Serbian	српски језик	ltr	RS	Serbia	country-flags/data/flags/rs.svg
-sk-SK	Indo-European	sk	Slovak	slovenčina, slovenský jazyk	ltr	SK	Slovakia	country-flags/data/flags/sk.svg
-sl-SI	Indo-European	sl	Slovene	slovenski jezik, slovenščina	ltr	SI	Slovenia	country-flags/data/flags/si.svg
-es-AR	Indo-European	es	Spanish, Castilian	español, castellano	ltr	AR	Argentina	country-flags/data/flags/ar.svg
-es-BO	Indo-European	es	Spanish, Castilian	español, castellano	ltr	BO	Bolivia, Plurinational State of	country-flags/data/flags/bo.svg
-es-CL	Indo-European	es	Spanish, Castilian	español, castellano	ltr	CL	Chile	country-flags/data/flags/cl.svg
-es-CO	Indo-European	es	Spanish, Castilian	español, castellano	ltr	CO	Colombia	country-flags/data/flags/co.svg
-es-CR	Indo-European	es	Spanish, Castilian	español, castellano	ltr	CR	Costa Rica	country-flags/data/flags/cr.svg
-es-DO	Indo-European	es	Spanish, Castilian	español, castellano	ltr	DO	Dominican Republic	country-flags/data/flags/do.svg
-es-EC	Indo-European	es	Spanish, Castilian	español, castellano	ltr	EC	Ecuador	country-flags/data/flags/ec.svg
-es-SV	Indo-European	es	Spanish, Castilian	español, castellano	ltr	SV	El Salvador	country-flags/data/flags/sv.svg
-es-GT	Indo-European	es	Spanish, Castilian	español, castellano	ltr	GT	Guatemala	country-flags/data/flags/gt.svg
-es-HN	Indo-European	es	Spanish, Castilian	español, castellano	ltr	HN	Honduras	country-flags/data/flags/hn.svg
-es-MX	Indo-European	es	Spanish, Castilian	español, castellano	ltr	MX	Mexico	country-flags/data/flags/mx.svg
-es-NI	Indo-European	es	Spanish, Castilian	español, castellano	ltr	NI	Nicaragua	country-flags/data/flags/ni.svg
-es-PA	Indo-European	es	Spanish, Castilian	español, castellano	ltr	PA	Panama	country-flags/data/flags/pa.svg
-es-PY	Indo-European	es	Spanish, Castilian	español, castellano	ltr	PY	Paraguay	country-flags/data/flags/py.svg
-es-PE	Indo-European	es	Spanish, Castilian	español, castellano	ltr	PE	Peru	country-flags/data/flags/pe.svg
-es-PR	Indo-European	es	Spanish, Castilian	español, castellano	ltr	PR	Puerto Rico	country-flags/data/flags/pr.svg
-es-ES	Indo-European	es	Spanish, Castilian	español, castellano	ltr	ES	Spain	country-flags/data/flags/es.svg
-es-UY	Indo-European	es	Spanish, Castilian	español, castellano	ltr	UY	Uruguay	country-flags/data/flags/uy.svg
-es-VE	Indo-European	es	Spanish, Castilian	español, castellano	ltr	VE	Venezuela, Bolivarian Republic of	country-flags/data/flags/ve.svg
-sw-KE	Niger–Congo	sw	Swahili	Kiswahili	ltr	KE	Kenya	country-flags/data/flags/ke.svg
-sv-FI	Indo-European	sv	Swedish	Svenska	ltr	FI	Finland	country-flags/data/flags/fi.svg
-sv-SE	Indo-European	sv	Swedish	Svenska	ltr	SE	Sweden	country-flags/data/flags/se.svg
-ta-IN	Dravidian	ta	Tamil	தமிழ்	ltr	IN	India	country-flags/data/flags/in.svg
-tt-RU	Turkic	tt	Tatar	татар теле, tatar tele	ltr	RU	Russian Federation	country-flags/data/flags/ru.svg
-te-IN	Dravidian	te	Telugu	తెలుగు	ltr	IN	India	country-flags/data/flags/in.svg
-th-TH	Tai–Kadai	th	Thai	ไทย	ltr	TH	Thailand	country-flags/data/flags/th.svg
-tr-TR	Turkic	tr	Turkish	Türkçe	ltr	TR	Turkey	country-flags/data/flags/tr.svg
-uk-UA	Indo-European	uk	Ukrainian	українська мова	ltr	UA	Ukraine	country-flags/data/flags/ua.svg
-ur-PK	Indo-European	ur	Urdu	اردو	rtl	PK	Pakistan	country-flags/data/flags/pk.svg
-uz-UZ	Turkic	uz	Uzbek	O‘zbek, Ўзбек, أۇزبېك‎	ltr	UZ	Uzbekistan	country-flags/data/flags/uz.svg
-vi-VN	Austroasiatic	vi	Vietnamese	Tiếng Việt	ltr	VN	Viet Nam	country-flags/data/flags/vn.svg
+#Combo Code	#Language Family	#Language Code	#Language Name	#Language Endonym	#Language Direction	#Country Code	#Country Name	#Country Flag	#Country Flag Image
+af-ZA	Indo-European	af	Afrikaans	Afrikaans	ltr	ZA	South Africa	🇿🇦	country-flags/data/flags/za.svg
+sq-AL	Indo-European	sq	Albanian	gjuha shqipe	ltr	AL	Albania	🇦🇱	country-flags/data/flags/al.svg
+ar-DZ	Afro-Asiatic	ar	Arabic	العربية	rtl	DZ	Algeria	🇩🇿	country-flags/data/flags/dz.svg
+ar-BH	Afro-Asiatic	ar	Arabic	العربية	rtl	BH	Bahrain	🇧🇭	country-flags/data/flags/bh.svg
+ar-EG	Afro-Asiatic	ar	Arabic	العربية	rtl	EG	Egypt	🇪🇬	country-flags/data/flags/eg.svg
+ar-IQ	Afro-Asiatic	ar	Arabic	العربية	rtl	IQ	Iraq	🇮🇶	country-flags/data/flags/iq.svg
+ar-JO	Afro-Asiatic	ar	Arabic	العربية	rtl	JO	Jordan	🇯🇴	country-flags/data/flags/jo.svg
+ar-KW	Afro-Asiatic	ar	Arabic	العربية	rtl	KW	Kuwait	🇰🇼	country-flags/data/flags/kw.svg
+ar-LB	Afro-Asiatic	ar	Arabic	العربية	rtl	LB	Lebanon	🇱🇧	country-flags/data/flags/lb.svg
+ar-LY	Afro-Asiatic	ar	Arabic	العربية	rtl	LY	Libya	🇱🇾	country-flags/data/flags/ly.svg
+ar-MA	Afro-Asiatic	ar	Arabic	العربية	rtl	MA	Morocco	🇲🇦	country-flags/data/flags/ma.svg
+ar-OM	Afro-Asiatic	ar	Arabic	العربية	rtl	OM	Oman	🇴🇲	country-flags/data/flags/om.svg
+ar-QA	Afro-Asiatic	ar	Arabic	العربية	rtl	QA	Qatar	🇶🇦	country-flags/data/flags/qa.svg
+ar-SA	Afro-Asiatic	ar	Arabic	العربية	rtl	SA	Saudi Arabia	🇸🇦	country-flags/data/flags/sa.svg
+ar-SY	Afro-Asiatic	ar	Arabic	العربية	rtl	SY	Syrian Arab Republic	🇸🇾	country-flags/data/flags/sy.svg
+ar-TN	Afro-Asiatic	ar	Arabic	العربية	rtl	TN	Tunisia	🇹🇳	country-flags/data/flags/tn.svg
+ar-AE	Afro-Asiatic	ar	Arabic	العربية	rtl	AE	United Arab Emirates	🇦🇪	country-flags/data/flags/ae.svg
+ar-YE	Afro-Asiatic	ar	Arabic	العربية	rtl	YE	Yemen	🇾🇪	country-flags/data/flags/ye.svg
+hy-AM	Indo-European	hy	Armenian	Հայերեն	ltr	AM	Armenia	🇦🇲	country-flags/data/flags/am.svg
+az-AZ	Turkic	az	Azerbaijani	azərbaycan dili	ltr	AZ	Azerbaijan	🇦🇿	country-flags/data/flags/az.svg
+eu-ES	Language isolate	eu	Basque	euskara, euskera	ltr	ES	Spain	🇪🇸	country-flags/data/flags/es.svg
+be-BY	Indo-European	be	Belarusian	беларуская мова	ltr	BY	Belarus	🇧🇾	country-flags/data/flags/by.svg
+bg-BG	Indo-European	bg	Bulgarian	български език	ltr	BG	Bulgaria	🇧🇬	country-flags/data/flags/bg.svg
+ca-ES	Indo-European	ca	Catalan, Valencian	català, valencià	ltr	ES	Spain	🇪🇸	country-flags/data/flags/es.svg
+zh-CN	Sino-Tibetan	zh	Chinese	中文 (Zhōngwén), 汉语, 漢語	ltr	CN	China	🇨🇳	country-flags/data/flags/cn.svg
+zh-HK	Sino-Tibetan	zh	Chinese	中文 (Zhōngwén), 汉语, 漢語	ltr	HK	Hong Kong	🇭🇰	country-flags/data/flags/hk.svg
+zh-MO	Sino-Tibetan	zh	Chinese	中文 (Zhōngwén), 汉语, 漢語	ltr	MO	Macao	🇲🇴	country-flags/data/flags/mo.svg
+zh-SG	Sino-Tibetan	zh	Chinese	中文 (Zhōngwén), 汉语, 漢語	ltr	SG	Singapore	🇸🇬	country-flags/data/flags/sg.svg
+zh-TW	Sino-Tibetan	zh	Chinese	中文 (Zhōngwén), 汉语, 漢語	ltr	TW	Taiwan, Province of China	🇹🇼	country-flags/data/flags/tw.svg
+hr-HR	Indo-European	hr	Croatian	hrvatski jezik	ltr	HR	Croatia	🇭🇷	country-flags/data/flags/hr.svg
+cs-CZ	Indo-European	cs	Czech	čeština, český jazyk	ltr	CZ	Czech Republic	🇨🇿	country-flags/data/flags/cz.svg
+da-DK	Indo-European	da	Danish	dansk	ltr	DK	Denmark	🇩🇰	country-flags/data/flags/dk.svg
+dv-MV	Indo-European	dv	Divehi, Dhivehi, Maldivian	ދިވެހި	rtl	MV	Maldives	🇲🇻	country-flags/data/flags/mv.svg
+nl-BE	Indo-European	nl	Dutch	Nederlands, Vlaams	ltr	BE	Belgium	🇧🇪	country-flags/data/flags/be.svg
+nl-NL	Indo-European	nl	Dutch	Nederlands, Vlaams	ltr	NL	Netherlands	🇳🇱	country-flags/data/flags/nl.svg
+en-AU	Indo-European	en	English	English	ltr	AU	Australia	🇦🇺	country-flags/data/flags/au.svg
+en-BZ	Indo-European	en	English	English	ltr	BZ	Belize	🇧🇿	country-flags/data/flags/bz.svg
+en-CA	Indo-European	en	English	English	ltr	CA	Canada	🇨🇦	country-flags/data/flags/ca.svg
+en-IE	Indo-European	en	English	English	ltr	IE	Ireland	🇮🇪	country-flags/data/flags/ie.svg
+en-JM	Indo-European	en	English	English	ltr	JM	Jamaica	🇯🇲	country-flags/data/flags/jm.svg
+en-NZ	Indo-European	en	English	English	ltr	NZ	New Zealand	🇳🇿	country-flags/data/flags/nz.svg
+en-PH	Indo-European	en	English	English	ltr	PH	Philippines	🇵🇭	country-flags/data/flags/ph.svg
+en-ZA	Indo-European	en	English	English	ltr	ZA	South Africa	🇿🇦	country-flags/data/flags/za.svg
+en-TT	Indo-European	en	English	English	ltr	TT	Trinidad and Tobago	🇹🇹	country-flags/data/flags/tt.svg
+en-GB	Indo-European	en	English	English	ltr	GB	United Kingdom	🇬🇧	country-flags/data/flags/gb.svg
+en-US	Indo-European	en	English	English	ltr	US	United States	🇺🇸	country-flags/data/flags/us.svg
+en-ZW	Indo-European	en	English	English	ltr	ZW	Zimbabwe	🇿🇼	country-flags/data/flags/zw.svg
+et-EE	Uralic	et	Estonian	eesti, eesti keel	ltr	EE	Estonia	🇪🇪	country-flags/data/flags/ee.svg
+fo-FO	Indo-European	fo	Faroese	føroyskt	ltr	FO	Faroe Islands	🇫🇴	country-flags/data/flags/fo.svg
+fa-IR	Indo-European	fa	Persian (Farsi)	فارسی	rtl	IR	Iran, Islamic Republic of	🇮🇷	country-flags/data/flags/ir.svg
+fi-FI	Uralic	fi	Finnish	suomi, suomen kieli	ltr	FI	Finland	🇫🇮	country-flags/data/flags/fi.svg
+fr-BE	Indo-European	fr	French	français, langue française	ltr	BE	Belgium	🇧🇪	country-flags/data/flags/be.svg
+fr-CA	Indo-European	fr	French	français, langue française	ltr	CA	Canada	🇨🇦	country-flags/data/flags/ca.svg
+fr-FR	Indo-European	fr	French	français, langue française	ltr	FR	France	🇫🇷	country-flags/data/flags/fr.svg
+fr-LU	Indo-European	fr	French	français, langue française	ltr	LU	Luxembourg	🇱🇺	country-flags/data/flags/lu.svg
+fr-MC	Indo-European	fr	French	français, langue française	ltr	MC	Monaco	🇲🇨	country-flags/data/flags/mc.svg
+fr-CH	Indo-European	fr	French	français, langue française	ltr	CH	Switzerland	🇨🇭	country-flags/data/flags/ch.svg
+gl-ES	Indo-European	gl	Galician	galego	ltr	ES	Spain	🇪🇸	country-flags/data/flags/es.svg
+ka-GE	South Caucasian	ka	Georgian	ქართული	ltr	GE	Georgia	🇬🇪	country-flags/data/flags/ge.svg
+de-AT	Indo-European	de	German	Deutsch	ltr	AT	Austria	🇦🇹	country-flags/data/flags/at.svg
+de-DE	Indo-European	de	German	Deutsch	ltr	DE	Germany	🇩🇪	country-flags/data/flags/de.svg
+de-LI	Indo-European	de	German	Deutsch	ltr	LI	Liechtenstein	🇱🇮	country-flags/data/flags/li.svg
+de-LU	Indo-European	de	German	Deutsch	ltr	LU	Luxembourg	🇱🇺	country-flags/data/flags/lu.svg
+de-CH	Indo-European	de	German	Deutsch	ltr	CH	Switzerland	🇨🇭	country-flags/data/flags/ch.svg
+el-GR	Indo-European	el	Greek (modern)	ελληνικά	ltr	GR	Greece	🇬🇷	country-flags/data/flags/gr.svg
+gu-IN	Indo-European	gu	Gujarati	ગુજરાતી	ltr	IN	India	🇮🇳	country-flags/data/flags/in.svg
+he-IL	Afro-Asiatic	he	Hebrew (modern)	עברית	rtl	IL	Israel	🇮🇱	country-flags/data/flags/il.svg
+hi-IN	Indo-European	hi	Hindi	हिन्दी, हिंदी	ltr	IN	India	🇮🇳	country-flags/data/flags/in.svg
+hu-HU	Uralic	hu	Hungarian	magyar	ltr	HU	Hungary	🇭🇺	country-flags/data/flags/hu.svg
+is-IS	Indo-European	is	Icelandic	Íslenska	ltr	IS	Iceland	🇮🇸	country-flags/data/flags/is.svg
+id-ID	Austronesian	id	Indonesian	Bahasa Indonesia	ltr	ID	Indonesia	🇮🇩	country-flags/data/flags/id.svg
+it-IT	Indo-European	it	Italian	italiano	ltr	IT	Italy	🇮🇹	country-flags/data/flags/it.svg
+it-CH	Indo-European	it	Italian	italiano	ltr	CH	Switzerland	🇨🇭	country-flags/data/flags/ch.svg
+ja-JP	Japonic	ja	Japanese	日本語 (にほんご)	ltr	JP	Japan	🇯🇵	country-flags/data/flags/jp.svg
+kn-IN	Dravidian	kn	Kannada	ಕನ್ನಡ	ltr	IN	India	🇮🇳	country-flags/data/flags/in.svg
+kk-KZ	Turkic	kk	Kazakh	қазақ тілі	ltr	KZ	Kazakhstan	🇰🇿	country-flags/data/flags/kz.svg
+ko-KR	Koreanic	ko	Korean	한국어, 조선어	ltr	KR	Korea, Republic of	🇰🇷	country-flags/data/flags/kr.svg
+ky-KZ	Turkic	ky	Kyrgyz	Кыргызча, Кыргыз тили	ltr	KZ	Kazakhstan	🇰🇿	country-flags/data/flags/kz.svg
+lv-LV	Indo-European	lv	Latvian	latviešu valoda	ltr	LV	Latvia	🇱🇻	country-flags/data/flags/lv.svg
+lt-LT	Indo-European	lt	Lithuanian	lietuvių kalba	ltr	LT	Lithuania	🇱🇹	country-flags/data/flags/lt.svg
+mk-MK	Indo-European	mk	Macedonian	македонски јазик	ltr	MK	Macedonia, the former Yugoslav Republic of	🇲🇰	country-flags/data/flags/mk.svg
+ms-BN	Austronesian	ms	Malay	bahasa Melayu, بهاس ملايو‎	ltr	BN	Brunei Darussalam	🇧🇳	country-flags/data/flags/bn.svg
+ms-MY	Austronesian	ms	Malay	bahasa Melayu, بهاس ملايو‎	ltr	MY	Malaysia	🇲🇾	country-flags/data/flags/my.svg
+mr-IN	Indo-European	mr	Marathi (Marāṭhī)	मराठी	ltr	IN	India	🇮🇳	country-flags/data/flags/in.svg
+mn-MN	Mongolic	mn	Mongolian	монгол	ltr	MN	Mongolia	🇲🇳	country-flags/data/flags/mn.svg
+nb-NO	Indo-European	nb	Norwegian Bokmål	Norsk bokmål	ltr	NO	Norway	🇳🇴	country-flags/data/flags/no.svg
+nn-NO	Indo-European	nn	Norwegian Nynorsk	Norsk nynorsk	ltr	NO	Norway	🇳🇴	country-flags/data/flags/no.svg
+pl-PL	Indo-European	pl	Polish	język polski, polszczyzna	ltr	PL	Poland	🇵🇱	country-flags/data/flags/pl.svg
+pt-BR	Indo-European	pt	Portuguese	português	ltr	BR	Brazil	🇧🇷	country-flags/data/flags/br.svg
+pt-PT	Indo-European	pt	Portuguese	português	ltr	PT	Portugal	🇵🇹	country-flags/data/flags/pt.svg
+pa-IN	Indo-European	pa	Panjabi, Punjabi	ਪੰਜਾਬੀ, پنجابی‎	ltr	IN	India	🇮🇳	country-flags/data/flags/in.svg
+ro-RO	Indo-European	ro	Romanian	limba română	ltr	RO	Romania	🇷🇴	country-flags/data/flags/ro.svg
+ru-RU	Indo-European	ru	Russian	русский язык	ltr	RU	Russian Federation	🇷🇺	country-flags/data/flags/ru.svg
+sa-IN	Indo-European	sa	Sanskrit (Saṁskṛta)	संस्कृतम्	ltr	IN	India	🇮🇳	country-flags/data/flags/in.svg
+sr-RS	Indo-European	sr	Serbian	српски језик	ltr	RS	Serbia	🇷🇸	country-flags/data/flags/rs.svg
+sk-SK	Indo-European	sk	Slovak	slovenčina, slovenský jazyk	ltr	SK	Slovakia	🇸🇰	country-flags/data/flags/sk.svg
+sl-SI	Indo-European	sl	Slovene	slovenski jezik, slovenščina	ltr	SI	Slovenia	🇸🇮	country-flags/data/flags/si.svg
+es-AR	Indo-European	es	Spanish, Castilian	español, castellano	ltr	AR	Argentina	🇦🇷	country-flags/data/flags/ar.svg
+es-BO	Indo-European	es	Spanish, Castilian	español, castellano	ltr	BO	Bolivia, Plurinational State of	🇧🇴	country-flags/data/flags/bo.svg
+es-CL	Indo-European	es	Spanish, Castilian	español, castellano	ltr	CL	Chile	🇨🇱	country-flags/data/flags/cl.svg
+es-CO	Indo-European	es	Spanish, Castilian	español, castellano	ltr	CO	Colombia	🇨🇴	country-flags/data/flags/co.svg
+es-CR	Indo-European	es	Spanish, Castilian	español, castellano	ltr	CR	Costa Rica	🇨🇷	country-flags/data/flags/cr.svg
+es-DO	Indo-European	es	Spanish, Castilian	español, castellano	ltr	DO	Dominican Republic	🇩🇴	country-flags/data/flags/do.svg
+es-EC	Indo-European	es	Spanish, Castilian	español, castellano	ltr	EC	Ecuador	🇪🇨	country-flags/data/flags/ec.svg
+es-SV	Indo-European	es	Spanish, Castilian	español, castellano	ltr	SV	El Salvador	🇸🇻	country-flags/data/flags/sv.svg
+es-GT	Indo-European	es	Spanish, Castilian	español, castellano	ltr	GT	Guatemala	🇬🇹	country-flags/data/flags/gt.svg
+es-HN	Indo-European	es	Spanish, Castilian	español, castellano	ltr	HN	Honduras	🇭🇳	country-flags/data/flags/hn.svg
+es-MX	Indo-European	es	Spanish, Castilian	español, castellano	ltr	MX	Mexico	🇲🇽	country-flags/data/flags/mx.svg
+es-NI	Indo-European	es	Spanish, Castilian	español, castellano	ltr	NI	Nicaragua	🇳🇮	country-flags/data/flags/ni.svg
+es-PA	Indo-European	es	Spanish, Castilian	español, castellano	ltr	PA	Panama	🇵🇦	country-flags/data/flags/pa.svg
+es-PY	Indo-European	es	Spanish, Castilian	español, castellano	ltr	PY	Paraguay	🇵🇾	country-flags/data/flags/py.svg
+es-PE	Indo-European	es	Spanish, Castilian	español, castellano	ltr	PE	Peru	🇵🇪	country-flags/data/flags/pe.svg
+es-PR	Indo-European	es	Spanish, Castilian	español, castellano	ltr	PR	Puerto Rico	🇵🇷	country-flags/data/flags/pr.svg
+es-ES	Indo-European	es	Spanish, Castilian	español, castellano	ltr	ES	Spain	🇪🇸	country-flags/data/flags/es.svg
+es-UY	Indo-European	es	Spanish, Castilian	español, castellano	ltr	UY	Uruguay	🇺🇾	country-flags/data/flags/uy.svg
+es-VE	Indo-European	es	Spanish, Castilian	español, castellano	ltr	VE	Venezuela, Bolivarian Republic of	🇻🇪	country-flags/data/flags/ve.svg
+sw-KE	Niger–Congo	sw	Swahili	Kiswahili	ltr	KE	Kenya	🇰🇪	country-flags/data/flags/ke.svg
+sv-FI	Indo-European	sv	Swedish	Svenska	ltr	FI	Finland	🇫🇮	country-flags/data/flags/fi.svg
+sv-SE	Indo-European	sv	Swedish	Svenska	ltr	SE	Sweden	🇸🇪	country-flags/data/flags/se.svg
+ta-IN	Dravidian	ta	Tamil	தமிழ்	ltr	IN	India	🇮🇳	country-flags/data/flags/in.svg
+tt-RU	Turkic	tt	Tatar	татар теле, tatar tele	ltr	RU	Russian Federation	🇷🇺	country-flags/data/flags/ru.svg
+te-IN	Dravidian	te	Telugu	తెలుగు	ltr	IN	India	🇮🇳	country-flags/data/flags/in.svg
+th-TH	Tai–Kadai	th	Thai	ไทย	ltr	TH	Thailand	🇹🇭	country-flags/data/flags/th.svg
+tr-TR	Turkic	tr	Turkish	Türkçe	ltr	TR	Turkey	🇹🇷	country-flags/data/flags/tr.svg
+uk-UA	Indo-European	uk	Ukrainian	українська мова	ltr	UA	Ukraine	🇺🇦	country-flags/data/flags/ua.svg
+ur-PK	Indo-European	ur	Urdu	اردو	rtl	PK	Pakistan	🇵🇰	country-flags/data/flags/pk.svg
+uz-UZ	Turkic	uz	Uzbek	O‘zbek, Ўзбек, أۇزبېك‎	ltr	UZ	Uzbekistan	🇺🇿	country-flags/data/flags/uz.svg
+vi-VN	Austroasiatic	vi	Vietnamese	Tiếng Việt	ltr	VN	Viet Nam	🇻🇳	country-flags/data/flags/vn.svg

@@ -54,6 +54,7 @@ def write_tsv_files(db,output_file,head_fields):
 if __name__ == '__main__':
 	
 	flags_path="../../data/country-flags/data/flags/"
+	flags_file="../../data/sources/unicode_flags.tsv"
 	combo_file='../../data/sources/ms_lc.tsv'
 	country_file='../../data/sources/wp_iso3166.tsv'
 	lang_file='../../data/sources/wp_iso639.tsv'
@@ -69,9 +70,11 @@ if __name__ == '__main__':
 	country_code_field="#Alpha-2 code"
 	country_name_field="#English short name"
 	country_flag_field="#Flag"
+	flag_field="#Emoji"
+	flag_country_field="#ISO"
 	combo_code_field="#Language Culture Name"
 	lang_fields=[lang_family_field,lang_code_field,lang_name_field,lang_endo_field,lang_dir_field]
-	country_fields=[country_code_field,country_name_field,country_flag_field]
+	country_fields=[country_code_field,country_name_field,flag_field,country_flag_field]
 	head_fields=[combo_code_field]+lang_fields+country_fields
 
 
@@ -80,8 +83,9 @@ if __name__ == '__main__':
 	country_db=get_tsv_data(country_file,country_code_field,fields_list=[country_name_field])
 	lang_db=get_tsv_data(lang_file,lang_code_field,fields_list=[lang_family_field,lang_name_field,lang_endo_field])
 	dir_db=get_tsv_data(dir_file,code_dir_field,fields_list=[lang_dir_field])
-	flags_db=get_flags_files(flags_path)
-
+	flags_unicode_db=get_tsv_data(flags_file,flag_country_field,fields_list=[flag_field])
+	flags_image_db=get_flags_files(flags_path)
+	
 	header={}
 	header[combo_code_field]=combo_code_field
 	header[lang_family_field]=lang_family_field
@@ -91,6 +95,7 @@ if __name__ == '__main__':
 	header[lang_dir_field]=lang_dir_field
 	header[country_code_field]=country_code_field
 	header[country_name_field]=country_name_field
+	header[flag_field]=flag_field
 	header[country_flag_field]=country_flag_field
 	db=[header]
 	for combo_code in code_db :
@@ -101,10 +106,13 @@ if __name__ == '__main__':
 			print(ERR1,lang_code)
 		elif not country_code in country_db :
 			print(ERR2,country_code)
-		elif not country_code.lower() in flags_db :
+		elif not country_code in flags_unicode_db :
+			print(ERR2,country_code)
+		elif not country_code.lower() in flags_image_db :
 			print(ERR2,country_code)
 		else :
-			flag=flags_db[country_code.lower()]
+			flag_image=flags_image_db[country_code.lower()]
+			flag_unicode=flags_unicode_db[country_code]
 			country=country_db[country_code]
 			lang=lang_db[lang_code]
 			dir=dir_db[lang_code]
@@ -119,8 +127,10 @@ if __name__ == '__main__':
 			data[lang_endo_field]=lang[lang_endo_field]
 			data[country_name_field]=country[country_name_field]
 			data[country_code_field]=country_code
-			data[country_flag_field]=path.relpath(flag,path.dirname(output_file))
+			data[flag_field]=flag_unicode[flag_field]
+			data[country_flag_field]=path.relpath(flag_image,path.dirname(output_file))
 			db.append(data)
 			
 	
 	write_tsv_files(db,output_file,head_fields)
+	
