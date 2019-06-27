@@ -8,7 +8,6 @@
    Title: "List of language names ordered by code"
    Description: List of native language names, alphabetically sorted by Wikimedia language code. Where the Wikipedia domain has been created, it is linked to. 
 
-
  - wp_iso639.tsv
    Source: http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
    Title: "List of ISO 639-1 codes."
@@ -44,6 +43,12 @@
 			because no ISO 639-1 code in the official languages listing and there is already ar-SY Arabic - Syria	0x2801 ARS 
       - 	change div-MV	Dhivehi - Maldives	0x0465 to dv-MV	Dhivehi - Maldives	0x0465
 		   because dv is the ISO 639-1 code for Dhivehi in the official languages listing
+
+ - unicode_flags.tsv
+   Source: https://apps.timwhitlock.info/emoji/tables/iso3166
+   Title: "Emoji country flags and their codes"
+   Description: the full set of ISO-3166-1 country codes and their codepoint pairs.Some Emoji implementations represent combinations of two “regional indicator” letters as a single flag symbol.
+
 
 
 
