@@ -40,14 +40,13 @@ def write_html_head(output_file,lang_header,country_header,link_header):
 		html_file.writelines("<th>{}</th>\n".format(link_header))
 		html_file.writelines("</tr></thead>\n")
 		html_file.writelines("<tbody>\n")
-		
-def write_html_line(output_file,lang_code,dir,lang,index_path_name,index_text,flag,country,flag_title):
+def write_html_line(output_file,lang_code,dir,lang,index_path_name,flag,country,links_text):
 	with open(output_file,'a') as html_file :
-		lang_htm='<td lang="{}" dir="{}">{}</td>'.format(lang_code,dir,lang)
-		index_htm='<td><a href="{}">{}</a></td>'.format(index_path_name,index_text)
-		country_htm='<td><img src="{}" alt="{}" title="{}" style="width:auto;height:1em"></td>'.format(flag,flag_title,country)
-		line_htm="<tr>{}{}{}</tr>\n".format(lang_htm,country_htm,index_htm)
-		html_file.writelines(line_htm)
+		html_file.writelines("<tr>\n")
+		html_file.writelines('<td lang="{}" dir="{}">{}</td>\n'.format(lang_code,dir,lang))
+		html_file.writelines('<td title="{}">{}</td>\n'.format(country,flag))
+		html_file.writelines('<td><a href="{}" hreflang="{}" type="text/html" rel="next">{}️</a></td>\n'.format(index_path_name,lang_code,links_text))
+		html_file.writelines("</tr>\n")
 def write_html_foot(output_file):
 	with open(output_file,'a') as html_file :
 		html_file.writelines("</tbody>")
@@ -61,12 +60,8 @@ if __name__ == '__main__':
 	links_path='../../data/languages'
 	
 	links_file='index.html'
-	links_text="GO"
-	
-	flag_text="flag"
-	flags_path=''
-	flags_path=None # leave uncomented if dont want to use an alternate path for the flags files
-	
+	links_text="➡"
+		
 	lang_header="language"
 	country_header="country"
 	link_header="link"
@@ -93,17 +88,10 @@ if __name__ == '__main__':
 		lang=data[lang_endo_field]
 		lang_code=data[lang_code_field]
 		dir=data[lang_dir_field]
-		
-		flag_title=" ".join([country,flag_text])
-		if flags_path==None :
-			flag_path_abs=path.join(path.dirname(data_file),flag)
-		else :
-			flag_path_abs=path.join( flags_path, path.basename(flag) )
-		flag_path_rel=path.relpath(flag_path_abs,path.dirname(output_file))
-		
+				
 		link_path_abs=os.path.join(links_path,combo_code.lower(),links_file)
 		link_path_rel=path.relpath(link_path_abs,path.dirname(output_file))
 		
-		write_html_line(output_file,lang_code,dir,lang,link_path_rel,links_text,flag_path_rel,country,flag_title)
+		write_html_line(output_file,lang_code,dir,lang,link_path_rel,flag,country,links_text)
 
 	write_html_foot(output_file)
